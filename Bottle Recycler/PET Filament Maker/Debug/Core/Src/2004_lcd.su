@@ -1,0 +1,5 @@
+../Core/Src/2004_lcd.c:16:6:lcd_send_cmd	56	static
+../Core/Src/2004_lcd.c:44:6:lcd_send_char	56	static
+../Core/Src/2004_lcd.c:72:6:lcd_send_string	16	static
+../Core/Src/2004_lcd.c:77:6:lcd_clear	8	static
+../Core/Src/2004_lcd.c:83:6:lcd_init	8	static
